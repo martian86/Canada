@@ -1,0 +1,10 @@
+21:27:02.850 [TestNG] INFO  resources.Base - Site opened successfully!
+21:27:06.314 [TestNG] ERROR resources.Base - Error occurred in method sortData
+21:27:18.601 [TestNG] INFO  resources.Base - Site opened successfully!
+21:27:28.777 [TestNG] INFO  resources.Base - Site opened successfully!
+21:27:35.602 [TestNG] INFO  resources.Base - Site opened successfully!
+21:29:54.821 [TestNG] INFO  resources.Base - Site opened successfully!
+21:29:59.979 [TestNG] ERROR resources.Base - Error occurred in method sortData
+21:30:09.472 [TestNG] INFO  resources.Base - Site opened successfully!
+21:30:18.592 [TestNG] INFO  resources.Base - Site opened successfully!
+21:30:26.629 [TestNG] INFO  resources.Base - Site opened successfully!

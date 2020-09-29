@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Test3(failed)" preserve-order="true">
+    <classes>
+      <class name="resources.sortTableData">
+        <methods>
+          <include name="sortData"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.sortTableData -->
+      <class name="resources.bookFlightTicket">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.bookFlightTicket -->
+      <class name="resources.GetTabNames">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.GetTabNames -->
+      <class name="resources.Cricbuzz">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.Cricbuzz -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test parallel="tests" name="Test1(failed)" preserve-order="true">
+    <classes>
+      <class name="resources.sortTableData">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.sortTableData -->
+      <class name="resources.bookFlightTicket">
+        <methods>
+          <include name="bookTicket" invocation-numbers="0 2 3"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.bookFlightTicket -->
+      <class name="resources.GetTabNames">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.GetTabNames -->
+      <class name="resources.Cricbuzz">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.Cricbuzz -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,20 @@
+10:36:05.097 [main] INFO  resources.Base - Site opened successfully!
+10:37:36.782 [main] INFO  resources.Base - Site opened successfully!
+10:38:51.287 [main] INFO  resources.Base - Site opened successfully!
+11:11:13.001 [main] INFO  resources.Base - Site opened successfully!
+11:20:47.982 [main] INFO  resources.Base - Site opened successfully!
+11:20:53.435 [main] ERROR resources.Base - Error occurred in method bookTicket
+11:22:25.470 [main] INFO  resources.Base - Site opened successfully!
+11:22:27.681 [main] ERROR resources.Base - Error occurred in method bookTicket
+13:25:46.862 [main] INFO  resources.Base - Site opened successfully!
+13:25:51.391 [main] ERROR resources.Base - Error occurred in method bookTicket
+13:29:14.217 [main] INFO  resources.Base - Site opened successfully!
+13:29:17.233 [main] ERROR resources.Base - Error occurred in method bookTicket
+13:31:00.242 [main] INFO  resources.Base - Site opened successfully!
+13:31:02.993 [main] ERROR resources.Base - Error occurred in method bookTicket
+13:44:04.036 [main] INFO  resources.Base - Site opened successfully!
+13:44:10.323 [main] ERROR resources.Base - Error occurred in method bookTicket
+13:47:11.014 [main] INFO  resources.Base - Site opened successfully!
+13:47:13.925 [main] ERROR resources.Base - Error occurred in method bookTicket
+16:13:45.836 [main] INFO  resources.Base - Site opened successfully!
+16:13:52.358 [main] ERROR resources.Base - Error occurred in method bookTicket

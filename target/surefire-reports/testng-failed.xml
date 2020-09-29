@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="resources.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Test5(failed)" preserve-order="true">
+    <classes>
+      <class name="resources.sortTableData">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.sortTableData -->
+      <class name="resources.bookFlightTicket">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.bookFlightTicket -->
+      <class name="resources.GetTabNames">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.GetTabNames -->
+      <class name="resources.ActionClassTest">
+        <methods>
+          <include name="testAction"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.ActionClassTest -->
+      <class name="resources.Cricbuzz">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- resources.Cricbuzz -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+</suite> <!-- Failed suite [Suite] -->

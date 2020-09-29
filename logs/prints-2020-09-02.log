@@ -1,0 +1,50 @@
+13:42:47.409 [main] INFO  resources.Base - Site opened successfully!
+13:42:56.366 [main] INFO  resources.Base - Site opened successfully!
+13:43:02.547 [main] INFO  resources.Base - Site opened successfully!
+13:43:07.540 [main] INFO  resources.Base - Site opened successfully!
+13:46:48.536 [main] INFO  resources.Base - Site opened successfully!
+13:46:55.533 [main] INFO  resources.Base - Site opened successfully!
+13:47:00.909 [main] INFO  resources.Base - Site opened successfully!
+13:47:06.245 [main] INFO  resources.Base - Site opened successfully!
+13:48:20.410 [main] INFO  resources.Base - Site opened successfully!
+13:48:43.600 [main] INFO  resources.Base - Site opened successfully!
+13:48:48.024 [main] INFO  resources.Base - Site opened successfully!
+13:48:52.002 [main] INFO  resources.Base - Site opened successfully!
+15:38:04.430 [main] INFO  resources.Base - Site opened successfully!
+15:38:18.068 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:38:21.221 [main] INFO  resources.Base - Site opened successfully!
+15:38:34.030 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:38:36.403 [main] INFO  resources.Base - Site opened successfully!
+15:38:49.175 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:38:51.476 [main] INFO  resources.Base - Site opened successfully!
+15:39:04.020 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:44:05.268 [main] INFO  resources.Base - Site opened successfully!
+15:44:19.539 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:44:23.115 [main] INFO  resources.Base - Site opened successfully!
+15:44:36.106 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:44:38.659 [main] INFO  resources.Base - Site opened successfully!
+15:44:51.122 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:44:53.445 [main] INFO  resources.Base - Site opened successfully!
+15:45:06.174 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:48:08.383 [main] INFO  resources.Base - Site opened successfully!
+15:48:21.852 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:48:23.173 [main] INFO  resources.Base - Site opened successfully!
+15:48:23.221 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:48:23.234 [main] ERROR resources.Base - Error occurred in method bookTicket
+15:51:00.463 [main] INFO  resources.Base - Site opened successfully!
+15:51:15.428 [main] INFO  resources.Base - Site opened successfully!
+15:51:26.530 [main] INFO  resources.Base - Site opened successfully!
+15:51:36.642 [main] INFO  resources.Base - Site opened successfully!
+17:28:48.335 [TestNG] ERROR resources.Base - Error occurred in method getScore
+17:28:54.803 [TestNG] INFO  resources.Base - Site opened successfully!
+17:29:19.561 [TestNG] INFO  resources.Base - Site opened successfully!
+17:29:36.369 [TestNG] INFO  resources.Base - Site opened successfully!
+17:29:50.755 [TestNG] INFO  resources.Base - Site opened successfully!
+17:37:22.610 [TestNG] INFO  resources.Base - Site opened successfully!
+17:37:48.511 [TestNG] INFO  resources.Base - Site opened successfully!
+17:38:04.929 [TestNG] INFO  resources.Base - Site opened successfully!
+17:38:20.079 [TestNG] INFO  resources.Base - Site opened successfully!
+17:52:02.126 [TestNG] INFO  resources.Base - Site opened successfully!
+17:52:14.625 [TestNG] INFO  resources.Base - Site opened successfully!
+17:52:24.507 [TestNG] INFO  resources.Base - Site opened successfully!
+17:52:35.029 [TestNG] INFO  resources.Base - Site opened successfully!

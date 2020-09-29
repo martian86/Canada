@@ -1,0 +1,15 @@
+16:45:53.981 [TestNG] INFO  resources.Base - Site opened successfully!
+16:45:54.103 [TestNG] ERROR resources.Base - Error occurred in method testAction
+16:46:12.216 [TestNG] INFO  resources.Base - Site opened successfully!
+16:46:24.359 [TestNG] INFO  resources.Base - Site opened successfully!
+16:46:34.067 [TestNG] INFO  resources.Base - Site opened successfully!
+16:55:34.853 [TestNG] INFO  resources.Base - Site opened successfully!
+16:55:37.048 [TestNG] ERROR resources.Base - Error occurred in method testAction
+16:55:51.367 [TestNG] INFO  resources.Base - Site opened successfully!
+16:56:01.946 [TestNG] INFO  resources.Base - Site opened successfully!
+16:56:10.992 [TestNG] INFO  resources.Base - Site opened successfully!
+16:57:57.762 [TestNG] INFO  resources.Base - Site opened successfully!
+16:58:01.724 [TestNG] ERROR resources.Base - Error occurred in method testAction
+16:58:16.831 [TestNG] INFO  resources.Base - Site opened successfully!
+16:58:27.392 [TestNG] INFO  resources.Base - Site opened successfully!
+16:58:36.913 [TestNG] INFO  resources.Base - Site opened successfully!

@@ -1,0 +1,8 @@
+00:05:33.371 [TestNG] INFO  resources.Base - Site opened successfully!
+00:05:35.813 [TestNG] ERROR resources.Base - Error occurred in method sortData
+00:05:58.554 [TestNG] ERROR resources.Base - Error occurred in method bookTicket
+00:06:01.159 [TestNG] INFO  resources.Base - Site opened successfully!
+00:06:08.136 [TestNG] INFO  resources.Base - Site opened successfully!
+00:06:10.664 [TestNG] ERROR resources.Base - Error occurred in method bookTicket
+00:06:12.514 [TestNG] INFO  resources.Base - Site opened successfully!
+00:06:15.412 [TestNG] ERROR resources.Base - Error occurred in method bookTicket
