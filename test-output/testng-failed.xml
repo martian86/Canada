@@ -3,12 +3,12 @@
 <suite parallel="none" name="Failed suite [Default suite]">
   <test parallel="none" name="Default test(failed)" preserve-order="true">
     <classes>
-      <class name="resources.ActionClassTest">
+      <class name="resources.CricBuzzTest">
         <methods>
-          <include name="testAction"/>
+          <include name="testLiveScore"/>
           <include name="init"/>
         </methods>
-      </class> <!-- resources.ActionClassTest -->
+      </class> <!-- resources.CricBuzzTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

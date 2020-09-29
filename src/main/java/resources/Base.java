@@ -33,8 +33,8 @@ public class Base {
 		Properties props = new Properties();
 		props.load(fis);
 		
-		//String browser = props.getProperty("browser");
-		String browser = System.getProperty("browser");
+		String browser = props.getProperty("browser");
+		//String browser = System.getProperty("browser");
 		if (browser.equalsIgnoreCase("chrome"))
 		{
 			System.setProperty("webdriver.chrome.driver", "C:\\Users\\aniru\\Documents\\chromedriver.exe");
